@@ -1,0 +1,30 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+h1, h2, h3 {
+  padding: 5%;
+}
+
+ol, ul {
+  padding-left: 20px;
+}
+
+p {
+  background-color: azure;
+}
+
+.recipes {
+  margin: 4px;
+  
+}
+
+#list-of-recipes {
+  background-color: beige;
+}
+
+#title {
+  background-color: antiquewhite;
+  padding: 5%;
+}
